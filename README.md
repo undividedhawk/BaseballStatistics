@@ -3,3 +3,4 @@ Project Goals: To design an automated program that automatically updates a datab
 
 Programmers: Bradley Mueller, Muhammad Shah
 
+Task 1: Create a simple class that computes basic statistics.
